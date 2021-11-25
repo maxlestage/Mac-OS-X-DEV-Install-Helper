@@ -94,8 +94,8 @@
 
 ### Installer Node
 
-     nvm install 'lts/_'
-     nvm use 'lts/_'
+     nvm install lts/*
+     nvm use lts/*
      node -v
      npm -v
 
